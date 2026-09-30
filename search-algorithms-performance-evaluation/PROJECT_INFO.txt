@@ -1,0 +1,4 @@
+Project: Performance Evaluation of Search-Based Problem Solving Algorithms
+Problem Statement: Evaluate the performance of various algorithms (Uninformed, Informed, Local Search and Constraint Satisfaction) of problem solving through Search.
+Language: Python
+Purpose: Academic AI Search Algorithms project
